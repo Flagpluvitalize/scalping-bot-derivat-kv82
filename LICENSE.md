@@ -1,4 +1,4 @@
-# 
+# elite scalping bot for derivatives Algorithm | low-frequency + order-book-analysis is the best scalping bot for derivatives, featuring low-frequency and order-book-analysis.
 
 
 
